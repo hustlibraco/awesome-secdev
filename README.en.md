@@ -1,7 +1,7 @@
 # awesome-secdev
 [简体中文](/README.md) | English
 
-## Assets Scanning
+## Asset Scanning
 - Tool
   - [nmap](https://github.com/nmap/nmap) - Nmap ("Network Mapper") is an open source tool for network exploration and security auditing
   - [masscan](https://github.com/robertdavidgraham/masscan) - Mass IP port scanner, very fast and dangerous
