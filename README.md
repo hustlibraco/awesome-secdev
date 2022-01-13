@@ -1,8 +1,22 @@
 # awesome-secdev
+简体中文 | [English](/README.en.md)
 
-## Scanner(扫描器)
-- [gosint](https://github.com/1in9e/gosint) - Gosint is a distributed asset information collection and vulnerability scanning platform
-- [H](https://github.com/SiJiDo/H) - H是一款强大的资产收集管理平台，主要用于src信息收集和红蓝对抗资产收集用，采用python celery分布式实现多节点部署
+## Assets Scanning(资产扫描)
+- Tool(工具)
+  - [nmap](https://github.com/nmap/nmap) - Nmap ("Network Mapper") is an open source tool for network exploration and security auditing
+  - [masscan](https://github.com/robertdavidgraham/masscan) - Mass IP port scanner, very fast and dangerous
+  - [dismap](https://github.com/zhzyker/dismap) - Dismap 定位是一个资产发现和识别工具；其特色功能在于快速识别 Web 指纹信息，定位资产类型
+- Platform(平台)
+  - [gosint](https://github.com/1in9e/gosint) - Gosint is a distributed asset information collection and vulnerability scanning platform
+  - [H](https://github.com/SiJiDo/H) - H是一款强大的资产收集管理平台，主要用于src信息收集和红蓝对抗资产收集用，采用python celery分布式实现多节点部署
+  - [ARL](https://github.com/TophantTechnology/ARL) - ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库
+
+## Vulnerability Scanning(漏洞扫描)
+- Tool(工具)
+  - [vulmap](https://github.com/zhzyker/vulmap) - Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞利用功能, 目前支持的 webapps 包括 activemq, flink, shiro, solr, struts2, tomcat, unomi, drupal, elasticsearch, fastjson, jenkins, nexus, weblogic, jboss, spring, thinkphp
+  - [xray](https://github.com/chaitin/xray) - 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc
+- Platform(平台)
+  - [Goby](https://github.com/gobysec/Goby) - Goby is a new generation network security assessment tool. It can efficiently and practically scan vulnerabilities while sorting out the most complete attack surface information for a target enterprise.
 
 ## EDR(终端检测响应)
 - [openedr](https://github.com/ComodoSecurity/openedr) - Open EDR public repository
