@@ -18,6 +18,9 @@
 - 平台
   - [Goby](https://github.com/gobysec/Goby) - Goby是一款基于网络空间测绘技术的新一代网络安全工具，它通过给目标网络建立完整的资产知识库，进行网络安全事件应急与漏洞应急。
 
+## 主机入侵检测系统（HIDS）
+- [Elkeid](https://github.com/bytedance/Elkeid) - Elkeid是一个云原生的基于主机的安全(入侵检测与风险识别)解决方案。
+
 ## 终端检测响应（EDR）
 - [openedr](https://github.com/ComodoSecurity/openedr) - Open EDR public repository.
 
