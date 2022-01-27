@@ -18,6 +18,9 @@
 - Platform
   - [Goby](https://github.com/gobysec/Goby) - Goby is a new generation network security assessment tool. It can efficiently and practically scan vulnerabilities while sorting out the most complete attack surface information for a target enterprise.
 
+## HIDS
+- [Elkeid](https://github.com/bytedance/Elkeid) - Elkeid is a support cloud-native and base linux host security(Intrusion detection and risk identification) solution.
+
 ## EDR
 - [openedr](https://github.com/ComodoSecurity/openedr) - Open EDR public repository
 
