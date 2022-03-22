@@ -22,7 +22,7 @@
 - [Elkeid](https://github.com/bytedance/Elkeid) - Elkeid是一个云原生的基于主机的安全(入侵检测与风险识别)解决方案。
 
 ## 终端检测响应（EDR）
-- [openedr](https://github.com/ComodoSecurity/openedr) - Open EDR public repository.
+- [openedr](https://github.com/ComodoSecurity/openedr) - Comodo Cyber Security公司开源的EDR，已不维护，仅作参考。
 
 ## 静态应用安全测试（SAST）
 - [SonarQube](https://github.com/SonarSource/sonarqube) - SonarQube是一种自动代码审查工具，用于检测代码中的错误、漏洞和代码异味。它可以与您现有的工作流程集成，以实现跨项目分支和拉取请求的持续代码检查。
@@ -30,11 +30,9 @@
 ## 交互式应用安全测试（IAST）
 - [DongTai(洞态)](https://github.com/HXSecurity/DongTai) - DongTai是一款开源的被动式交互式安全测试(IAST)产品，通过动态hook和污点跟踪算法等实现通用漏洞检测、多请求关联漏洞检测(包括但不限于越权漏洞、未授权访问)、第三方组件漏洞检测等，目前支持Java、Python两种语言的应用漏洞检测。
 
-## AI安全
-- [AI-for-Security-Learning](https://github.com/404notf0und/AI-for-Security-Learning) - 安全场景、基于AI的安全算法和安全数据分析学习笔记（偏工程类学习笔记）。
-
 ## 安全编排自动化响应（SOAR）
 - [w5](https://github.com/w5teams/w5) - W5 是一个面向企业安全与运维设计的 低代码 自动化平台，可以让团队降低 人工成本，提升 工作效率。可以把代码 图形化、可视化、可编排。让不同的系统，不同的组件通过 APP 进行封装形成平台能力，通过剧本画出你想要的逻辑过程，利用多种 Trigger 去实现自动化执行。
 
 ## 参考文档
-- [Security-PPT](https://github.com/FeeiCN/Security-PPT) - Security-related Slide Presentation（大安全各领域各公司各会议分享的PPT）2010 - 2022
+- [Security-PPT](https://github.com/FeeiCN/Security-PPT) - Security-related Slide Presentation（2010至今大安全各领域各公司各会议分享的PPT）。
+- [AI-for-Security-Learning](https://github.com/404notf0und/AI-for-Security-Learning) - 安全场景、基于AI的安全算法和安全数据分析学习笔记（偏工程类学习笔记）。
