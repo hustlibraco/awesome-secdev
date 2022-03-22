@@ -36,3 +36,4 @@
 ## 参考文档
 - [Security-PPT](https://github.com/FeeiCN/Security-PPT) - Security-related Slide Presentation（2010至今大安全各领域各公司各会议分享的PPT）。
 - [AI-for-Security-Learning](https://github.com/404notf0und/AI-for-Security-Learning) - 安全场景、基于AI的安全算法和安全数据分析学习笔记（偏工程类学习笔记）。
+- [vulnerability-paper](https://github.com/MrWQ/vulnerability-paper) - 用户MrWQ收集的渗透测试类文章。
