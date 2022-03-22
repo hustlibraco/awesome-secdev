@@ -35,3 +35,6 @@
 
 ## 安全编排自动化响应（SOAR）
 - [w5](https://github.com/w5teams/w5) - W5 是一个面向企业安全与运维设计的 低代码 自动化平台，可以让团队降低 人工成本，提升 工作效率。可以把代码 图形化、可视化、可编排。让不同的系统，不同的组件通过 APP 进行封装形成平台能力，通过剧本画出你想要的逻辑过程，利用多种 Trigger 去实现自动化执行。
+
+## 参考文档
+- [Security-PPT](https://github.com/FeeiCN/Security-PPT) - Security-related Slide Presentation（大安全各领域各公司各会议分享的PPT）2010 - 2022
