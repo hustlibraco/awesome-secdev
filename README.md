@@ -26,6 +26,7 @@
 
 ## 静态应用安全测试（SAST）
 - [SonarQube](https://github.com/SonarSource/sonarqube) - SonarQube是一种自动代码审查工具，用于检测代码中的错误、漏洞和代码异味。它可以与您现有的工作流程集成，以实现跨项目分支和拉取请求的持续代码检查。
+- [checkov](https://github.com/bridgecrewio/checkov) - Checkov是一款针对基础设施即代码（IaC）的静态代码安全分析工具，在该工具的帮助下，广大研究人员可以在在Terraform、CloudFormation、Kubernetes、Serverless Framework和其他基础设施的构建期间，轻松检测出云端代码安全问题。
 
 ## 交互式应用安全测试（IAST）
 - [DongTai(洞态)](https://github.com/HXSecurity/DongTai) - DongTai是一款开源的被动式交互式安全测试(IAST)产品，通过动态hook和污点跟踪算法等实现通用漏洞检测、多请求关联漏洞检测(包括但不限于越权漏洞、未授权访问)、第三方组件漏洞检测等，目前支持Java、Python两种语言的应用漏洞检测。
