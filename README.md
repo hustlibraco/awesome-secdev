@@ -23,6 +23,9 @@
 
 ## 终端检测响应（EDR）
 - [openedr](https://github.com/ComodoSecurity/openedr) - Comodo Cyber Security公司开源的EDR，已不维护，仅作参考。
+- [wazuh](https://github.com/wazuh/) - 一个功能完备的开源安全平台，覆盖了EDR的基础功能。
+
+## SIEM
 
 ## 静态应用安全测试（SAST）
 - [SonarQube](https://github.com/SonarSource/sonarqube) - SonarQube是一种自动代码审查工具，用于检测代码中的错误、漏洞和代码异味。它可以与您现有的工作流程集成，以实现跨项目分支和拉取请求的持续代码检查。
